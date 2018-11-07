@@ -1,0 +1,2 @@
+Stwórz adnotacje, która przechowywać będzie dowolne informacje o metodach i polach.
+Następnie stwórz metodę, która wypisze te metody i pola, które są opisane wybraną adnotacją.

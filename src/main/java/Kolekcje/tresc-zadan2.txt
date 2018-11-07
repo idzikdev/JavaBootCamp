@@ -1,0 +1,47 @@
+Zadanie 1
+W klasie testowej stwórz listę elementów typu String, następnie
+zaimplementuj metodę która będzie przyjmować listę jako parametr i
+będzie sprawdzać czy występują w niej powtarzające się elementy.
+Wywołaj następnie tą metodę przekazując jako parametr utworzoną
+wcześniej listę i sprawdź czy zwraca poprawny rezultat.
+• Do realizacji zadania wykorzystaj klasę ArrayList
+
+Zadanie 2
+• W klasie testowej stwórz listę elementów typu String, gdzie niektóre
+elementy będą się powtarzać. Następnie zaimplementuj metodę
+która będzie zliczać liczbę wystąpień poszczególnych elementów i na
+koniec je wyświetli. Wywołaj tę metodę przekazując utworzoną
+wcześniej listę i sprawdź rezultat.
+• Do realizacji zadania wykorzystaj klasy ArrayList oraz HashMap.
+
+Zadanie 3
+Utwórz klasę Book przechowującą informacje o książce:
+- Tytuł
+- Ilość stron
+- Cena
+Następnie utwórz listę książek i posortuj je po tytle. Wypisz
+posortowane książki. Następnie napisz dwa osobne komparatory do
+sortowania po ilości stron oraz po cenie. Uruchom metodę sortującą z
+wykorzystaniem tych komparatorów, wypisując każdorazowo
+posortowaną listę.
+
+Zadanie 4
+Przemyśl jakiego typu można użyć aby przechować strukturę
+organizacyjną firmy:
+• Dyrektorzy
+• Kierownicy
+• Pracownicy
+Następnie zainicjuj tą strukturę przykładowymi danymi i wyświetl ją na
+ekranie stosując wcięcia tak aby było widać kto jest dyrektorem, kto
+kierownikiem podległym danemu dyrektorowi a kto pracownikiem
+podległym danemu kierownikowi
+
+Zadanie 5
+Stwórz aplikację pozwalający przechowywać dane o osobach (imię,
+nazwisko, wiek, wzrost, waga). Aplikacja powinna ponadto umożliwiać:
+- Dodawanie nowych osób
+- Wyszukiwanie osób według różnych kryteriów: imienia, nazwiska,
+wieku, wzrostu, wagi
+- Wyszukiwanie osoby najstarszej, najmłodszej, najwyższej, najniższej,
+najcięższej, najlżejszej
+- Sortowanie osób według różnych kryteriów: nazwiska, wieku, wagi
